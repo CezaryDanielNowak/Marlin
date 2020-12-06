@@ -297,7 +297,7 @@
 #define BOARD_BTT_SKR_MINI_E3_V1_0    4015  // BigTreeTech SKR Mini E3 (STM32F103RC)
 #define BOARD_BTT_SKR_MINI_E3_V1_2    4016  // BigTreeTech SKR Mini E3 V1.2 (STM32F103RC)
 #define BOARD_BTT_SKR_MINI_E3_V2_0    4017  // BigTreeTech SKR Mini E3 V2.0 (STM32F103RC)
-#define BOARD_BTT_SKR_E3_DIP          4018  // BigTreeTech SKR E3 DIP V1.0 (STM32F103RC / STM32F103RE)
+#define BOARD_twotree_SKR_E3_DIP      4018  // twotree SKR E3 DIP
 #define BOARD_JGAURORA_A5S_A1         4019  // JGAurora A5S A1 (STM32F103ZET6)
 #define BOARD_FYSETC_AIO_II           4020  // FYSETC AIO_II
 #define BOARD_FYSETC_CHEETAH          4021  // FYSETC Cheetah
